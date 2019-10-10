@@ -1,0 +1,35 @@
+.Game-header{
+  color:white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 75px;
+  margin-left: 10px;
+}
+
+
+button{
+    color:black;
+    font-weight: bold;
+    font-size: 55px;
+    border-radius:10px;
+
+}
+
+.buttonstyle{
+  text-align: center;
+  color:red;
+  font-weight: bold;
+  font-size: 75px;
+  border-radius:10px;
+ padding-top: 120px;
+ margin-left: 10px;
+}
+
+.App{
+  background-image: url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/22/89/3d/shutterstock-265491971-2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+
+}
